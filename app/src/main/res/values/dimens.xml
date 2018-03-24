@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="textSize">20sp</dimen>
+    <dimen name="marginButton">2dp</dimen>
+    <dimen name="paddingButtonType1">15dp</dimen>
+    <dimen name="paddingButtonType2">35dp</dimen>
+</resources>
